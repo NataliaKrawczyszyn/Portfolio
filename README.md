@@ -17,13 +17,13 @@ https://drive.google.com/drive/folders/1hbsoSyPRwLiAh3oGjLxQpCPAu8s_BtYL?usp=dri
 https://docs.google.com/spreadsheets/d/1tr6SFEBJeftcDe3Wv7dhL6vyeqcxLyDtbaVoRXY84Kk/edit?usp=drive_link
 
 ## Courses 
-* [Test Automation Challenge / Dare IT] 
+- Test Automation Challenge / Dare IT
 
-* [Manual Tester / Sii Polska]
+- Manual Tester / Sii Polska
 
-* [Kyndryl Upskill Journey - Linux & Cloud / Kyndryl]
+- Kyndryl Upskill Journey - Linux & Cloud / Kyndryl
 
-* [Python Code in Place course / Stanford University]
+- Python Code in Place course / Stanford University
 
 ## Certificates
 
